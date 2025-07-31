@@ -1,1 +1,1 @@
-# E-commerce-User-Segmentation-via-RFM-K-Means-The-Look-
+# E-commerce-Customer-Segmentation-via-RFM-and-K-Means
